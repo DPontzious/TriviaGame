@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://stmed.net/sites/default/files/the-office-%28us%29-wallpapers-31722-1548708.jpg);
+    background-size: 90%;
+}
+.col-md-7{
+    background-color: #ba9c64;
+    border: solid 25px #ba9c64;
+}
+.col-7{
+    text-align: center;
+}
